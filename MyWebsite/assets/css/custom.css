@@ -419,9 +419,6 @@ footer li.signup-link a:hover {
 
 /* ==== MEDIA QUERIES ==== */
 
-@media screen and (max-width : 991px) {
-
-}
 
 @media screen and (max-width : 768px) {
 	.profilePic {
@@ -449,9 +446,6 @@ footer li.signup-link a:hover {
 
 }
 
-@media screen and (max-width : 568px) {
-
-}
 
 
 /*===============*/
